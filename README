@@ -1,0 +1,30 @@
+RECOMMENDATIONS:
+              
+         1.CONTENT_BASED RECOMMENDATIONS (product description)
+
+         2.COLLABARATIVE FILTERING RECOMMENDATIONS(user behaviour)
+   
+     !--->>price_based
+     !!--->>content_based
+     !!!--->>frequently_bought
+     !!!!--->>rating_based
+
+
+PRICE_BASED:
+       
+            Here we are using K-nearest neighbour(KNN) algorithm
+
+CONTENT_BASED:
+  
+           Here we are using TF-IDF vectorization and cosine similarity
+
+FREQUENTLY_BOUGHT:
+
+           Here we are using Normal Programming Logics
+ 
+RATING_BASED:
+ 
+          Here we are using Matrix-Factorization algorithm
+
+
+
